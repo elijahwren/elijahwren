@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker and PyTorch**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Internships and Networking**
 
