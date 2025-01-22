@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available on my GitHub [https://github.com/elijahwren](https://github.com/elijahwren)
 
-- 💬 Ask me about **Data Structures**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **elijahwren10@gmail.com**
 
