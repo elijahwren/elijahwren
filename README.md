@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Solo Projects and LeetCode**
 
-- 🌱 I’m currently learning **Docker and PyTorch**
+- 🌱 I’m currently learning **AWS and Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
